@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "disk-write-test",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
